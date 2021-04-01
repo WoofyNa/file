@@ -1,0 +1,22 @@
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/tksv/post/pass cost :4
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/payments cost :1
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/notice cost :0
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/serviceContact cost :1
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/activity cost :1
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/tksv/post/pass cost :13
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/payments cost :1
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/notice cost :2
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/serviceContact cost :5
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/activity cost :1
+jimmy run,  values is :&V3.2&50:3C:EA:34:00:AB&25&OPPO/CPH1729/7.1.1///6.4.0//510102152412450&&in-ID
+jimmy run, url is:https://nativepayf.oppomobile.com/plugin/post/activity cost :1
